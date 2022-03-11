@@ -1,0 +1,30 @@
+body {
+    background: #e1adad;
+    font-size: 1.5rem;
+  }
+  div {
+    background: #e1adad;
+    padding: 20px 60px 20px 60px;
+    width: 600px;
+    height: 400px;
+    background: #e1adad;
+    box-shadow: 5px 5px 10px #cb9c9c, -5px -5px 10px #f8bebe;
+    text-align: center;
+    align-items: center;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 50px;
+  }
+  input {
+    padding: 30px 100px 30px 100px;
+    border-radius: 50px;
+    font-size: 1.5rem;
+    box-shadow: inset 12px 12px 12px #cbced1, inset -12px -12px 12px white;
+  }
+  button {
+    margin-top: 10px;
+    padding: 20px 30px 20px 30px;
+    border-radius: 10px;
+    background: #e1adad;
+    box-shadow: 5px 5px 10px #cb9c9c, -5px -5px 10px #f8bebe;
+  }
